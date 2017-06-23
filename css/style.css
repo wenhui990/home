@@ -38,7 +38,7 @@ Main components
 	position: absolute;
 	top: 0;
 	left: 18px;
-	height: 100%;
+	height: 95%;
 	width: 4px;
 	background: #d7e4ed;
 }
@@ -103,11 +103,11 @@ Main components
 }
 
 .cd-timeline-img.cd-picture {
-	background: #75ce66;
+	background: #54595b;
 }
 
 .cd-timeline-img.cd-movie {
-	background: #c03b44;
+	background: #54595b;
 }
 
 .cd-timeline-img.cd-location {
@@ -225,7 +225,7 @@ a.cd-read-more:hover {
 @media only screen and (min-width: 1170px) {
 	.cd-timeline-content {
 		margin-left: 0;
-		width: 45%;
+		width: 43%;
 	}
 	.cd-timeline-content::before {
 		top: 10px;

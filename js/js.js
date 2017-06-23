@@ -82,3 +82,7 @@ function centrarV(e){
 	var margen = (altoCont - altoE) / 2;
 	e.css('margin-top', margen+'px')
 }
+// 
+$('.botonera').find('li').click(function(){
+	$('.btnMenu').click();
+})
